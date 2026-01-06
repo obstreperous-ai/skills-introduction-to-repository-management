@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @obstreperous-ai
+/src/backend/database.py      @obstreperous-ai
+/src/backend/routers/auth.py  @obstreperous-ai
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @obstreperous-ai
